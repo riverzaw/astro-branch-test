@@ -1,6 +1,6 @@
 This is a [Astro](https://nextjs.org/) starter kit bootstrapped with `npm create astro@latest -- --template basics`.
 
-## Getting Started brnahc
+## Getting Started brnahc wedew
 
 First, run the development server:
 
